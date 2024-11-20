@@ -1,7 +1,7 @@
 # Linux-IPC-Message-Queues
 Linux IPC-Message Queues
-# Developed by:charan kumar S
-# Register number: 212223220015
+# Developed by: Sanjeev D
+# Register number: 212223040185
 
 # AIM:
 To write a C program that receives a message from message queue and display them
